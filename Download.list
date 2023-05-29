@@ -9,6 +9,8 @@ PROCESS-NAME,uTorrent.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrent Helper.exe
+PROCESS-NAME,115.exe
+PROCESS-NAME,115Support.exe
 # bt
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
